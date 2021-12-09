@@ -4,7 +4,6 @@ overview
 
 ## Set up
 
-set up
 
 ## Instructions
 
