@@ -2,6 +2,8 @@
 
 ## Set up
 
+set up
+
 ## Instructions
 
 * a
