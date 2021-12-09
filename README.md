@@ -8,6 +8,4 @@ overview
 ## Instructions
 
 * a
-* b
 * c
-* d
