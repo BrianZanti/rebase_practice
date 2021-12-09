@@ -7,7 +7,6 @@ overview
 
 ## Instructions
 
-* a
 * c
 
 # ending
