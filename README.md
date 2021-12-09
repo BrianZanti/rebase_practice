@@ -4,7 +4,7 @@ overview
 
 ## Set up
 
-set up from main
+set up from main & branch
 
 ## Instructions
 
