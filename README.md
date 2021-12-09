@@ -8,6 +8,6 @@ set up from main
 
 ## Instructions
 
-* c
+* a
 
 # ending
